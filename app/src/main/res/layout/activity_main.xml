@@ -40,5 +40,15 @@
         android:contentDescription="@TODO"
         app:srcCompat="@drawable/gojek2" />
 
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="100dp"
+        android:layout_height="117dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="65dp"
+        android:layout_marginTop="186dp"
+        android:contentDescription="@TODO"
+        app:srcCompat="@drawable/gojek3" />
 
 </RelativeLayout>
